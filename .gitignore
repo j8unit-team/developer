@@ -1,5 +1,18 @@
 ### Log Files ###
 *.log
+logs/
 
 ### Temporary Data ###
 tmp/
+
+### Eclipse ###
+.settings/
+.classpath
+.project
+
+### OS ###
+Thumbs.db
+Desktop.ini
+.DS_Store
+.AppleDouble
+*~
