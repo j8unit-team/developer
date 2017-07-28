@@ -5,8 +5,7 @@ Line width: [120]
 [ ] Align final bracket in multi-line element tags
 [x] Preserv whitespace in tags with PCDATA content
 [ ] Clear blank lines
-[x] Format comments
-  [x] Join lines
+[ ] Format comments
 [x] Insert whitespace before closing empty end-tags
 ( ) Indent using tabs
 (o) Indent using spaces
