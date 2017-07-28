@@ -8,8 +8,8 @@ In order to keep the code consistent, to prevent encoding problems, to understan
 to avoid arguing over syntax, naming standards, and style preferences
 [we must insist on consistent code](https://www.google.de/search?q=coding+style+matters).
 
-Avowedly, good style is a subjective matter and the perception of beauty is subjective. However, these are the rules
-which we think are fine for us:
+Avowedly, good style is a subjective matter and the perception of beauty is subjective.
+However, these are the rules which we think are fine for us:
 
 ## Eclipse ([Oxygen](https://projects.eclipse.org/releases/oxygen))
 
