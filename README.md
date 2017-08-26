@@ -27,3 +27,12 @@ However, these are the rules which we think are fine for us:
     - Settings according to [J8Unit Save Actions](./eclipse/j8unit_java_editor_save-actions.md)
 - Window -> Preference -> XML -> XML Files -> Editor
     - Settings according to [J8Unit Save Actions](./eclipse/j8unit_xml_xml-files_editor.md)
+
+## Maven
+
+Preliminarily, Maven runs much smarter with [Maven Bash Auto Completion](https://github.com/juven/maven-bash-completion).
+
+Further, we (most of the time) respect the
+[Maven's convention over configuration concept](http://books.sonatype.com/mvnref-book/reference/installation-sect-conventionConfiguration.html).
+In particular, we use the
+[Standard Directory Layout](http://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html).
