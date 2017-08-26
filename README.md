@@ -13,6 +13,8 @@ However, these are the rules which we think are fine for us:
 
 ## Eclipse ([Oxygen](https://projects.eclipse.org/releases/oxygen))
 
+- Window -> Preference -> General -> Editors -> Structured Text Editors -> Task Tags
+    - Settings according to [J8Unit Task Tags](./eclipse/j8unit_general_editors_structured-text-editors_task-tags.md)
 - Window -> Preference -> General -> Workspace
     - Settings according to [J8Unit Workspace Settings](./eclipse/j8unit_general_workspace.md)
 - Window -> Preference -> Java -> Code Style -> Clean Up
