@@ -11,7 +11,7 @@ to avoid arguing over syntax, naming standards, and style preferences
 Avowedly, good style is a subjective matter and the perception of beauty is subjective.
 However, these are the rules which we think are fine for us:
 
-## Eclipse ([Oxygen](https://projects.eclipse.org/releases/oxygen))
+## Eclipse ([2019-12](https://projects.eclipse.org/releases/2019-12))
 
 - Window -> Preference -> General -> Editors -> Structured Text Editors -> Task Tags
     - Settings according to [J8Unit Task Tags](./eclipse/j8unit_general_editors_structured-text-editors_task-tags.md)
