@@ -63,5 +63,10 @@
 "Unnecessary Code" -> "Unnecessary code"
     [x] Remove unnecessary casts
     [ ] Remove unnecessary '$NON-NL$' tags
-    [x] Remove redundant type Arguments (1.7 or highter)
- 
+    [x] Remove redundant type Arguments (1.7 or higher)
+    [ ] Use Autoboxing (1.5 or higher)
+    [ ] Use Unboxing (1.5 or higher)
+    [ ] Push down negation
+    [ ] Remove redundant modifiers
+    [x] Remove redundant semicolons
+    [x] Remove unnecessary array creation (1.5 or higher)
