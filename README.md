@@ -23,6 +23,7 @@ However, these are the rules which we think are fine for us:
     - Import the [J8Unit Code Formatter Profile](./eclipse/j8unit_java_code-style_formatter.xml)
 - Window -> Preference -> Java -> Code Style -> Organize Imports
     - Import the [J8Unit Import Order](./eclipse/j8unit_java_code-style_organize_imports.importorder)
+    - Further settings according to [J8Unit Organize Imports](j8unit_java_code-style_organize_imports.md)
 - Window -> Preference -> Java -> Editor -> Save Actions
     - Settings according to [J8Unit Save Actions](./eclipse/j8unit_java_editor_save-actions.md)
 - Window -> Preference -> XML -> XML Files -> Editor
