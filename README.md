@@ -27,7 +27,7 @@ However, these are the rules which we think are fine for us:
 - Window -> Preference -> Java -> Editor -> Save Actions
     - Settings according to [J8Unit Save Actions](./eclipse/j8unit_java_editor_save-actions.md)
 - Window -> Preference -> XML -> XML Files -> Editor
-    - Settings according to [J8Unit Save Actions](./eclipse/j8unit_xml_xml-files_editor.md)
+    - Settings according to [J8Unit XML Files](./eclipse/j8unit_xml_xml-files_editor.md)
 
 ## Maven
 
