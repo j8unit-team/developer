@@ -11,7 +11,7 @@ to avoid arguing over syntax, naming standards, and style preferences
 Avowedly, good style is a subjective matter and the perception of beauty is subjective.
 However, these are the rules which we think are fine for us:
 
-## Eclipse ([Oxygen](https://projects.eclipse.org/releases/oxygen))
+## Eclipse ([2019-12](https://projects.eclipse.org/releases/2019-12))
 
 - Window -> Preference -> General -> Editors -> Structured Text Editors -> Task Tags
     - Settings according to [J8Unit Task Tags](./eclipse/j8unit_general_editors_structured-text-editors_task-tags.md)
@@ -23,10 +23,11 @@ However, these are the rules which we think are fine for us:
     - Import the [J8Unit Code Formatter Profile](./eclipse/j8unit_java_code-style_formatter.xml)
 - Window -> Preference -> Java -> Code Style -> Organize Imports
     - Import the [J8Unit Import Order](./eclipse/j8unit_java_code-style_organize_imports.importorder)
+    - Further settings according to [J8Unit Organize Imports](j8unit_java_code-style_organize_imports.md)
 - Window -> Preference -> Java -> Editor -> Save Actions
     - Settings according to [J8Unit Save Actions](./eclipse/j8unit_java_editor_save-actions.md)
 - Window -> Preference -> XML -> XML Files -> Editor
-    - Settings according to [J8Unit Save Actions](./eclipse/j8unit_xml_xml-files_editor.md)
+    - Settings according to [J8Unit XML Files](./eclipse/j8unit_xml_xml-files_editor.md)
 
 ## Maven
 
